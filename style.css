@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+	background-image: url('bg2.png');
+}
+
+#container {
+	width: 80vh;
+	min-height: 80vh;
+	margin: 10vh auto;
+	border: white 1px solid;
+	color: white;
+	padding: 10px;
+	font-size: 20px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 900;
+	line-height: 18px;
+}
+
+
+#textInput {
+	margin: 10px;
+}
+
+/*font-family: 'Staatliches', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu', sans-serif;*/
+
+
+#c {
+	font-size: 50px;
+	font-family: 'Staatliches', cursive;
+	line-height: 25px;
+}
+
+#s {
+	font-size: 10px;
+	font-weight: 700;
+}
+
+#e{
+	font-size: 25px;
+}
